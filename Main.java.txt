@@ -3,6 +3,7 @@ public calss Main{
 	public static void main(String[] args){
 
 		System.out.println("Hello Web&App");
+<<<<<<< HEAD
 		System.out.println("Version2");
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12,5 +13,7 @@ public calss Main{
 >>>>>>> parent of 4100fe3... version3 text added
 =======
 >>>>>>> parent of 4100fe3... version3 text added
+=======
+>>>>>>> parent of a50a27c... version2 text added
 	}
 }
