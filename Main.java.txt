@@ -4,7 +4,10 @@ public calss Main{
 
 		System.out.println("Hello Web&App");
 		System.out.println("Version2");
+<<<<<<< HEAD
 		System.out.println("Version3");
 
+=======
+>>>>>>> parent of 4100fe3... version3 text added
 	}
 }
